@@ -1,5 +1,5 @@
 # US-census-data-assessment
-### US Census Bureau 2017 Basic Monthly CPS Analysis with Apache Spark
+### US Census Bureau 2017 Basic Monthly CPS Analysis with Apache Spark and Pandas
 This repository contains a Jupyter notebook, the US Census Bureau's 2017 Basic Monthly CPS dataset, and the data documentation. The Jupyter notebook analyzes the dataset using Apache Spark with Python or Scala and answers four key questions about the dataset.
 Dataset
 The dataset consists of individual responses captured by the U.S. Census Bureau's 2017 Basic Monthly CPS. The dataset is available in the form of a dat file which was downloaded from the official U.S. Census Bureau website. The data documentation provides information on the structure of the dataset and how to decode any encoded values.
